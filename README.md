@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 **Initialize Transfer Object**
 
-There are a few pieces this program needs to know in order to work correctly. `token`, `username`, and `transfer to`. So let's
+There are a few pieces this program needs to know some auth in order to work correctly. `token`, `username`, and `transfer to`. So let's
 set up a TransferRepos instance.
 ```
 >> from transfer import TransferRepos
