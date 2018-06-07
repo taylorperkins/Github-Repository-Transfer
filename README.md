@@ -75,4 +75,8 @@ transfer.main(keep=["repo_name_1", "repo_name_2", etc])
  Pretty straightforward overall. I encourage you to look in the `transfer.py` and understand what's going on before running.
  It's a very small file.
 
+ ### So now what???
+
+ Well, now all that is left is for the receiving account to accept the invites via email. And you're good to go!!
+
  Enjoi, and happy coding :)
